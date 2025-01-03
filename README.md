@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-We will Add screenshots later...
+- We will Add screenshots later...
 
 <!-- ![](./screenshot.jpg)
 
@@ -35,7 +35,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-No links available for now...
+- No links available for now...
 
 <!-- - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
@@ -50,9 +50,9 @@ No links available for now...
 
 ### Continued development
 
-Maybe we will add some effects to enhance interactivity
+- Maybe we will add some effects to enhance interactivity
 
 ## Author
 
 - Website - [Ahmad El-Baz](https://github.com/ahmadelbaz)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ahmadelbaz)
+- Frontend Mentor - [@ahmadelbaz](https://www.frontendmentor.io/profile/ahmadelbaz)
