@@ -117,8 +117,15 @@ font-size: 0.7rem;
     height: 250px;
     border-radius: 8px;
     padding: 25px 20px;
-    box-shadow: 5px 15px 15px var(--color-bg-shadow), -5px 0px 15px var(--color-bg-shadow);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 
+    0 1px 3px rgba(0, 0, 0, 0.06);
     position: relative;
+    transition: all 0.3S ease;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+    box-shadow: 5px 15px 15px var(--color-bg-shadow), -5px 0px 15px var(--color-bg-shadow);
 }
 
 .card img {
